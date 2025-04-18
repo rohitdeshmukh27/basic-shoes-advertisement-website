@@ -1,6 +1,6 @@
-import amazon_logo from "/src/assets/amazon.png";
-import flipcart_logo from "/src/assets/flipkart.png";
-import shoes_image from "/src/assets/shoes-image.png";
+import amazon_logo from "basic-shoes-advertisement-website/src/assets/amazon.png";
+import flipcart_logo from "basic-shoes-advertisement-website/src/assets/flipkart.png";
+import shoes_image from "basic-shoes-advertisement-website/src/assets/shoes-image.png";
 
 const HeroSection = () => {
   return (
