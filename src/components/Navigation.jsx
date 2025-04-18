@@ -1,9 +1,11 @@
+import brand_logo from "/src/assets/brand_logo.png";
+
 const Navigation = () => {
   return (
     <div>
       <nav className="container">
         <div className="logo">
-          <img src="/src/assets/brand_logo.png" alt="Nike Logo" />
+          <img src={brand_logo} alt="Nike Logo" />
         </div>
 
         <ul>
