@@ -1,4 +1,4 @@
-import brand_logo from "/src/assets/brand_logo.png";
+import brand_logo from "basic-shoes-advertisement-website/src/assets/brand_logo.png";
 
 const Navigation = () => {
   return (
